@@ -1,4 +1,4 @@
-# Comandos Git apreendidos no curso da Geek University #Udemy
+# Comandos Git apreendidos no curso da Geek University
 
 ## 1. Instalação do Git
 
